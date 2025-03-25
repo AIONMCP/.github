@@ -106,29 +106,29 @@ Official Model Context Protocol website: https://modelcontextprotocol.info/<br /
 Official Python SDK repository: https://github.com/modelcontextprotocol/python-sdk<br />
 Official TypeScript SDK repository: https://github.com/modelcontextprotocol/typescript-sdk<br />
 fastmcp repository: https://github.com/jlowin/fastmcp<br />
-List of MCP servers: https://github.com/modelcontextprotocol/servers
-MCP Specification: https://modelcontextprotocol.info/specification/
-Works cited
-MCP Docs – Model Context Protocol （MCP）, accessed on March 25, 2025, https://modelcontextprotocol.info/docs/
-Introducing the Model Context Protocol - Anthropic, accessed on March 25, 2025, https://www.anthropic.com/news/model-context-protocol
-What is the Model Context Protocol (MCP)? - WorkOS, accessed on March 25, 2025, https://workos.com/blog/model-context-protocol
-Getting Started: Build a Model Context Protocol Server | by Chris McKenzie - Medium, accessed on March 25, 2025, https://medium.com/@kenzic/getting-started-build-a-model-context-protocol-server-9d0362363435
-Model Context Protocol (MCP): A Guide With Demo Project - DataCamp, accessed on March 25, 2025, https://www.datacamp.com/tutorial/mcp-model-context-protocol
-modelcontextprotocol/python-sdk: The official Python SDK ... - GitHub, accessed on March 25, 2025, https://github.com/modelcontextprotocol/python-sdk
-mcp · PyPI, accessed on March 25, 2025, https://pypi.org/project/mcp/
-jlowin/fastmcp: The fast, Pythonic way to build Model ... - GitHub, accessed on March 25, 2025, https://github.com/jlowin/fastmcp
-Architecture – Model Context Protocol （MCP）, accessed on March 25, 2025, https://modelcontextprotocol.info/specification/draft/architecture/
-Core architecture – Model Context Protocol （MCP）, accessed on March 25, 2025, https://modelcontextprotocol.info/docs/concepts/architecture
-Model Context Protocol - GitHub, accessed on March 25, 2025, https://github.com/modelcontextprotocol
-Model Context Protocol Python SDK download | SourceForge.net, accessed on March 25, 2025, https://sourceforge.net/projects/model-cont-prot-py.mirror/
-Releases · modelcontextprotocol/python-sdk - GitHub, accessed on March 25, 2025, https://github.com/modelcontextprotocol/python-sdk/releases
-What's New - Model Context Protocol, accessed on March 25, 2025, https://modelcontextprotocol.io/development/updates
-@modelcontextprotocol/sdk - npm, accessed on March 25, 2025, https://www.npmjs.com/package/@modelcontextprotocol/sdk
-modelcontextprotocol/typescript-sdk: The official Typescript ... - GitHub, accessed on March 25, 2025, https://github.com/modelcontextprotocol/typescript-sdk
-dylibso/mcpx-py: Python client library for https://mcp.run - call portable & secure tools for your AI Agents and Apps - GitHub, accessed on March 25, 2025, https://github.com/dylibso/mcpx-py
-Accelerating Node.js development with mcp-node - Platformatic Blog, accessed on March 25, 2025, https://blog.platformatic.dev/accelerating-nodejs-development-with-mcp-node
-An MCP client for Node.js. - GitHub, accessed on March 25, 2025, https://github.com/punkpeye/mcp-client
-Creating a Model Context Protocol Server: A Step-by-Step Guide | by Michael Bauer-Wapp, accessed on March 25, 2025, https://michaelwapp.medium.com/creating-a-model-context-protocol-server-a-step-by-step-guide-4c853fbf5ff2
-Integrating Model Context Protocol Tools with Semantic Kernel: A Step-by-Step Guide, accessed on March 25, 2025, https://devblogs.microsoft.com/semantic-kernel/integrating-model-context-protocol-tools-with-semantic-kernel-a-step-by-step-guide/
-A quick look at MCP with Large Language Models and Node.js | Red Hat Developer, accessed on March 25, 2025, https://developers.redhat.com/blog/2025/01/22/quick-look-mcp-large-language-models-and-nodejs
-Model Context Protocol - Cursor, accessed on March 25, 2025, https://docs.cursor.com/context/model-context-protocol
+List of MCP servers: https://github.com/modelcontextprotocol/servers<br />
+MCP Specification: https://modelcontextprotocol.info/specification/<br />
+MCP Docs – Model Context Protocol （MCP）https://modelcontextprotocol.info/docs/<br />
+Introducing the Model Context Protocol - Anthropic https://www.anthropic.com/news/model-context-protocol<br />
+What is the Model Context Protocol (MCP)? - WorkOS https://workos.com/blog/model-context-protocol<br />
+Getting Started: Build a Model Context Protocol Server | by Chris McKenzie - Medium 2025, https://medium.com/@kenzic/getting-started-build-a-model-context-protocol-server-9d0362363435<br />
+Model Context Protocol (MCP): A Guide With Demo Project - DataCamp] https://www.datacamp.com/tutorial/mcp-model-context-protocol<br />
+modelcontextprotocol/python-sdk: The official Python SDK ... - GitHub] https://github.com/modelcontextprotocol/python-sdk
+mcp<br />
+PyPI https://pypi.org/project/mcp/<br />
+jlowin/fastmcp: The fast, Pythonic way to build Model ...https://github.com/jlowin/fastmcp<br />
+Architecture – Model Context Protocol （MCP）https://modelcontextprotocol.info/specification/draft/architecture/<br />
+Core architecture – Model Context Protocol （MCP） https://modelcontextprotocol.info/docs/concepts/architecture<br />
+Model Context Protocol https://github.com/modelcontextprotocol<br />
+Model Context Protocol Python SDK download | SourceForge.net https://sourceforge.net/projects/model-cont-prot-py.mirror/<br />
+Releases · modelcontextprotocol/python-sdk - GitHub https://github.com/modelcontextprotocol/python-sdk/releases<br />
+What's New - Model Context Protocol https://modelcontextprotocol.io/development/updates<br />
+@modelcontextprotocol/sdk - npm  https://www.npmjs.com/package/@modelcontextprotocol/sdk<br />
+modelcontextprotocol/typescript-sdk: The official Typescript ... - GitHub https://github.com/modelcontextprotocol/typescript-sdk<br />
+dylibso/mcpx-py: Python client library for https://mcp.run - call portable & secure tools for your AI Agents and Apps https://github.com/dylibso/mcpx-py<br />
+Accelerating Node.js development with mcp-node - Platformatic Blog https://blog.platformatic.dev/accelerating-nodejs-development-with-mcp-node<br />
+An MCP client for Node.js. - GitHub https://github.com/punkpeye/mcp-client<br />
+Creating a Model Context Protocol Server: A Step-by-Step Guide | by Michael Bauer-Wapp https://michaelwapp.medium.com/creating-a-model-context-protocol-server-a-step-by-step-guide-4c853fbf5ff2<br />
+Integrating Model Context Protocol Tools with Semantic Kernel: A Step-by-Step Guide https://devblogs.microsoft.com/semantic-kernel/integrating-model-context-protocol-tools-with-semantic-kernel-a-step-by-step-guide/<br />
+A quick look at MCP with Large Language Models and Node.js | Red Hat Developer https://developers.redhat.com/blog/2025/01/22/quick-look-mcp-large-language-models-and-nodejs<br />
+Model Context Protocol - Cursor https://docs.cursor.com/context/model-context-protocol<br />
